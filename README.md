@@ -3,7 +3,7 @@
 # OBJECTIVE
 ### Create an action plan designed to assist Rockbuster to stay competitive, through an online video rental service.
 
-## Key questions and Objectives:
+## Key queries:
 ### Ratings: Amount per group, rental durations and rental rates
 ### Genres: Amount per, total incomes and averages
 ### Customers: Top countries and top customers

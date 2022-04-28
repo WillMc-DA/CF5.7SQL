@@ -7,6 +7,8 @@
 ### Ratings: Amount per group, rental durations and rental rates
 ### Genres: Amount per, total incomes and averages
 ### Customers: Top countries and top customers
+
+# Folders
 Here is the structure of the repository:
 
 ```

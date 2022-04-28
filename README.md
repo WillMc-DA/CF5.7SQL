@@ -5,7 +5,9 @@
 
 # Key queries:
 **Ratings:** Amount per group, rental durations and rental rates
+
 **Genres:** Amount per, total incomes and averages
+
 **Customers:** Top countries and top customers
 
 # Folders

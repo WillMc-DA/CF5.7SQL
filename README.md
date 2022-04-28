@@ -7,3 +7,11 @@
 ### Ratings: Amount per group, rental durations and rental rates
 ### Genres: Amount per, total incomes and averages
 ### Customers: Top countries and top customers
+Here is the structure of the repository:
+
+```
+Project Management  # Folder contains the documentation of guidelines related to the project.
+Data                # Folder contains all the the original and prepared datasets. 
+Scripts             # Folder contains scripts: data wrangling/data consistency, exploratory data analysis, regression/cluster/time-series/geospatial analysis.
+
+```

@@ -13,4 +13,4 @@
 
 **Project Files**  # Folder contains the Data Dictionary and Final Report
 
-### SQL Queries    # Folder contains scripts: Top countries, cities and customers, as well as Ratings and Genres analysis.
+**SQL Queries**    # Folder contains scripts: Top countries, cities and customers, as well as Ratings and Genres analysis.

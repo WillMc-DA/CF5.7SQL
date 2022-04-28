@@ -9,8 +9,8 @@
 ### Customers: Top countries and top customers
 
 # Folders
-Here is the structure of the repository:
+### Here is the structure of the repository:
 
-Project Files  # Folder contains the Data Dictionary and Final Report
+### Project Files  # Folder contains the Data Dictionary and Final Report
 
-SQL Queries    # Folder contains scripts: Top countries, cities and customers, as well as Ratings and Genres analysis.
+### SQL Queries    # Folder contains scripts: Top countries, cities and customers, as well as Ratings and Genres analysis.
